@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 """
 Script para verificar la instalación.
-
-testing git
-testing git 2
 """
 
 
