@@ -3,6 +3,7 @@
 Script para verificar la instalación.
 
 testing git
+testing git 2
 """
 
 
